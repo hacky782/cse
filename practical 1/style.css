@@ -1,0 +1,40 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(31, 31, 189) 35%, rgba(0,212,255,1) 100%);
+    color:azure;
+}
+table,th,td{
+    border:1px solid black;
+    margin-left:auto;
+    margin-right: auto;
+}
+img{
+   border-radius: 30px;
+}
+p{
+    width: 40%;
+    margin:auto;
+    border:1px solid black;
+    font-size: larger;
+    padding:20px;
+    border-radius: 20px;
+}
+section{
+     display: flex;
+     flex-direction: row;
+}
+table{
+
+}
+th{
+    padding:10px;
+}
+td{
+    padding:10px;
+}
+h1,h5{
+  text-align: center;
+}
+#labs{
+    
+}
